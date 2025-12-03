@@ -1,2 +1,2 @@
 # email_services
-Automated Quote Email Delivery Platform using ZenQuotes API
+Automated Quotes Email Delivery Service using ZenQuotes API
