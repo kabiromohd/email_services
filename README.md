@@ -1,5 +1,6 @@
 # Automated Quotes Email Delivery Service using ZenQuotes API
-## Data Engineering Community LaunchPad Python task 1
+
+## Data Engineering Community LaunchPad Mentorship Python task project
 
 ## Project Objective
 Task is to build an automated quote email delivery platform using ZenQuotes API. Get quotes from the API and automate daily sending to subscribers’ email.
@@ -31,7 +32,7 @@ Task is to build a production-grade backend service that:
     
 ### 3. Email Module
 - Send personalized quotes
-- Handle failures and retries
+- Handle failures and with retries
 - Log email delivery status per user
   
 ### 4. Logging & Monitoring
@@ -63,7 +64,8 @@ python database_setup.py
 ### 7. Email service lunches via cron or manual
 - setup a cron job as in below screenshot
 
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/19a8484d-4c5c-4be2-9f80-70e4444ff8f5" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/abb36f76-1fec-4823-8f1a-9d1a2bd6a286" />
+
 
 - The App can be manually run via this command:
   
